@@ -8,7 +8,7 @@ My initial projects have mostly been influenced by my classes, but now I spend t
   
 * 📫 Contact me @ HuzaifahMajid@gmail.com | https://www.linkedin.com/in/huzaifah-majid/
   
-* Fun Fact: My hobby is flipping homes
+* Fun Fact: My hobby is flipping homes | https://www.instagram.com/da_builder_zazi?igsh=MXVpeXo3ODZwanNvZQ%3D%3D&utm_source=qr
 
 
 
