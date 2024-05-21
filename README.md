@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Prospective double major in CS & ITI @ Rutgers University-New Brunswick
+B.S. in CS & ITI @ Rutgers University-New Brunswick
 
 My initial projects have mostly been influenced by my classes, but now I spend time on computer security + cloud concepts :)
 
