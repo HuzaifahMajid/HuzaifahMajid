@@ -1,14 +1,14 @@
-### Hi there 👋
-
+#### Hi there 👋
 B.S. in CS & ITI @ Rutgers University-New Brunswick
+My early projects were influenced by my coursework, but now I focus on system automation, application security, and optimizing workflows through code.
 
-My initial projects have mostly been influenced by my classes, but now I spend time on computer security + cloud concepts :)
+💻 What I'm Working On:
+- Building automation workflows for efficiency
+- Enhancing legal tech solutions through structured pipelines
+- Developing applications with a strong focus on security and usability
+- Exploring full-stack development for practical business solutions
 
-* 🌱 I am currently pursuing the AWS cloud practitioner certification to make a smoother transition into cloud technologies
-  
-* 📫 Contact me @ HuzaifahMajid@gmail.com | https://www.linkedin.com/in/huzaifah-majid/
-  
-* Fun Fact: My hobby is flipping homes | https://www.instagram.com/da_builder_zazi
+📫 Reach Me At:
+LinkedIn: linkedin.com/in/huzaifah-majid
 
-
-
+🚀 Fun Fact: When I'm not coding, I'm flipping homes 🏠 | @da_builder_zazi
