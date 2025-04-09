@@ -44,5 +44,5 @@ GitHub Actions · Docker · Nginx
 
 ### 🧠 Fun Fact
 
-> When I’m not coding, I’m flipping homes 🏠 — [@da_builder_zazi](https://instagram.com/da_builder_zazi)
+When I’m not coding, I’m flipping homes 🏠 — [@da_builder_zazi](https://instagram.com/da_builder_zazi)
 
