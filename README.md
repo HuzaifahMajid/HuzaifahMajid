@@ -32,10 +32,6 @@ GitHub Actions · Docker · Nginx
 
 ---
 
-### 📊 GitHub Stats
-
----
-
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/huzaifah-majid)
