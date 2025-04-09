@@ -9,6 +9,7 @@ My early projects were influenced by my coursework, but now I focus on system au
 - Exploring full-stack development for practical business solutions
 
 📫 Reach Me At:
+
 LinkedIn: linkedin.com/in/huzaifah-majid
 
 🚀 Fun Fact: When I'm not coding, I'm flipping homes 🏠 | @da_builder_zazi
